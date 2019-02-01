@@ -1,0 +1,23 @@
+#jumbotron h1 {
+  color: red;
+  text-decoration: underline;
+}
+
+#jumbotron h3 {
+  color: blue;
+}
+
+#jumbotron #devider {
+  background-color: blue;
+  height: 10px;
+  width: 100vw;
+}
+
+#jumbotron #devider claas {
+  width: 200;
+}
+
+#second {
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */
